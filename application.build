@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "Build GlobeHeartWorldConnect social and communication platform"
+git branch -M main
+git remote add origin https://github.com/YOUR_USERNAME/globeheartworldconnect.git
+git push -u origin main
